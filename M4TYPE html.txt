@@ -1,0 +1,20 @@
+<DOCTYPE html>
+<html>
+<head>
+ </head>
+<h2>Feedback Form</h2>
+<body align="center"bgcolor="skyblue">
+    <br>
+      <lable>Name</lable>
+    <input type="text" id="name" name="name"required><br> 
+
+      <     <lable>Email</lable>
+    <input type="Email" id="name" name="Email"required><br> 
+
+           <lable>Feedback</lable>
+    <textarea id="message" name="message" required></textarea><br>
+
+
+     <button type="submit">Submit</button>
+  </body>
+  </html> 
